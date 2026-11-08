@@ -8,7 +8,7 @@ Plain HTML, CSS and JavaScript. No build step, no dependencies.
 Add a name after `#` and the site greets that person:
 
 ```
-https://your-site.vercel.app/#Riya-Shah
+https://asheth2310.github.io/diwaliwithaagam/#Riya-Shah
 ```
 
 ## Host on Vercel
